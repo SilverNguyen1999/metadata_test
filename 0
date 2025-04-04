@@ -1,0 +1,21 @@
+{
+    "nft_id": 2025445,
+    "name": "Glider 0000",
+    "image": "https://ww-nft-static.sfo3.cdn.digitaloceanspaces.com/images_unit/1104.png",
+    "type_id": 8104,
+    "perk1_id": 0,
+    "perk2_id": 0,
+    "perk3_id": 0,
+    "properties": {
+        "tier": 1,
+        "rarity": "Common",
+        "level": 1,
+        "type": "Glider",
+        "perk1": "None",
+        "perk2": "None",
+        "perk3": "None",
+        "Perk1 rank": "None",
+        "Perk2 rank": "None",
+        "Perk3 rank": "None"
+    }
+}
